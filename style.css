@@ -1,3 +1,233 @@
-.title{
-  color: red;
+body {
+
+  margin: 0;
+  font-family: "Poppins";
+}
+.logo{
+  position: absolute;
+  width: 223px;
+  height: 79px;
+  left: 609px;
+  top: 53px;
+
+}
+.intro{
+  position: absolute;
+  width: 635px;
+  height: 255px;
+  left: 163px;
+  top: 211px;
+}
+
+.btn{
+
+  padding: 4px 10px;
+  color: white;
+  display: inline-block;
+  opacity: 1;
+  border-radius: 4px;
+}
+.btn:hover{
+  
+  color: white;
+   opacity: 2;
+}
+.login{
+ 
+position: absolute;
+width: 123px;
+height: 48px;
+left: 400px;
+top: 530px;
+background: #FFD1AA;
+border-radius: 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+text-align: center;
+text-decoration: none;
+line-height: 34px;
+color: #000000;
+}
+.daftar{
+position: absolute;
+width: 123px;
+height: 48px;
+left: 180px;
+top: 530px;
+background: #FFD1AA;
+border-radius: 15px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 23px;
+text-align: center;
+text-decoration: none;
+line-height: 34px;
+color: #000000;
+cursor: pointer;
+transition: all 0.5s;
+}
+.gambar1{
+position: absolute;
+width: 445px;
+height: 313px;
+left: 883px;
+top: 231px;
+}
+.efek1{
+  position: absolute;
+width: 483px;
+height: 692px;
+left: 0px;
+top: 0px;
+}
+.efek2{
+  position: absolute;
+width: 483px;
+height: 692px;
+left: 1400px;
+top: 294px;
+}
+.bodi{
+  position: absolute;
+width: 1216px;
+height: 552px;
+
+top: 809px;
+}
+.kalimat1{
+  position: absolute;
+width: 343px;
+height: 35px;
+left: 691px;
+
+font-family: 'Poppins';
+font-weight: 500;
+font-size: 24px;
+line-height: 32px;
+
+color: #000000;
+}
+.card1{
+  position: absolute;
+width: 331px;
+height: 377px;
+left: 112px;
+top: 942px;
+cursor: pointer;
+background: #F5F3F0;
+border-radius: 30px;
+transition: all 0.5s;
+}
+.card1:hover{
+  background-color: #FCDABE;
+}
+.pict1{
+position: absolute;
+width: 227px;
+left: 55px;
+height: 205px;
+top: 12px;
+text-align: center;
+
+}
+.card2{
+  position: absolute;
+width: 331px;
+height: 377px;
+left: 549px;
+top: 942px;
+background: #F5F3F0;
+border-radius: 30px;
+cursor: pointer;
+transition: all 0.5s;
+}
+.card2:hover{
+  background-color: #FCDABE;
+}
+.pict2{
+  position: absolute;
+width: 227px;
+left: 55px;
+height: 205px;
+top: 12px;
+text-align: center;
+
+}
+.card3{
+position: absolute;
+width: 331px;
+height: 377px;
+left: 986px;
+top: 942px;
+background: #F5F3F0;
+border-radius: 30px;
+cursor: pointer;
+transition: all 0.5s;
+}
+.card3:hover{
+  background-color: #FCDABE;
+}
+.pict3{
+  position: absolute;
+width: 227px;
+left: 55px;
+height: 205px;
+top: 12px;
+text-align: center;
+cursor: pointer;
+
+}
+.foot-wrapper{
+position: absolute;
+width: 1575px;
+height: 248px;
+left: 5px;
+top: 1627px;
+
+background: #FCDABE;
+}
+.kontak{
+position: absolute;
+width: 169px;
+height: 36px;
+left: 628px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #000000;
+}
+.IG{
+  position: absolute;
+width: 273px;
+height: 53px;
+left: 429px;
+top: 70px;
+}
+.WA{
+position: absolute;
+width: 277px;
+height: 53px;
+left: 797px;
+top: 70px
+}
+.alamat{
+  position: absolute;
+width: 648px;
+height: 43px;
+left: 455px;
+top:140px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+
+color: #000000;
+
 }
